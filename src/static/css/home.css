@@ -1,0 +1,42 @@
+
+.myContainer{
+    padding: 5%; 
+    margin: 10%; 
+    margin-top: 3%; 
+    border-style: solid; 
+    border-radius: 0%; 
+    border-color: black; 
+    background-color: white;
+}
+
+p {
+    margin:5px; color: #161B84; 
+    padding-bottom: 5px; 
+    margin-bottom: 2%; 
+    font-weight: bolder; 
+    display: none;
+}
+
+#buttonSimuler {
+    color: white; 
+    font-weight: bolder; 
+    background-color: #161B84; 
+    border-radius: 3%; 
+    padding: 1%; margin-top: 2%;
+}
+
+.invisible {
+ display: none;
+}
+
+.visible {
+ display: block;
+}
+
+.popular {
+    margin:5px; 
+    color: #161B84; 
+    padding-bottom: 5px; 
+    margin-bottom: 2%; 
+    font-weight: bolder;
+}
